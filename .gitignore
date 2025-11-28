@@ -1,0 +1,21 @@
+# build artifacts
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/Makefile
+/Makefile.cmake
+/*.o
+/*.obj
+/*.so
+/*.a
+/shell
+/*.out
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS/editor temp files
+.DS_Store
+*.swp
+EOF
